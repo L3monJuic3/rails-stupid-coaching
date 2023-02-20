@@ -13,12 +13,3 @@
  *= require_tree .
  *= require_self
  */
-
- #ask-button {
-  background-color: #337AB7;
-  height: 30px;
- }
-
- input, value {
-  color: aliceblue;
- }
